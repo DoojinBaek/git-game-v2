@@ -17,7 +17,7 @@ In particular, you'll learn how to use the commands:
 Let’s begin! 
 First, clone this repository using the command below:
 ```
-$ git clone https://github.com/git-game/git-game-v2.git
+$ git clone https://github.com/KAIST-CS350/git-game-v2.git
 ```
 
 **You can win a badge for completing this game!**
